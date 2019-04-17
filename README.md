@@ -1,1 +1,1 @@
-Haskell 101
+New start. Haskell.
